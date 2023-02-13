@@ -1,0 +1,8 @@
+.classpath
+.dbeaver
+.gitattributes
+.project
+.settings
+.DS_Store
+/bin/
+/target/
